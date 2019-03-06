@@ -6,7 +6,7 @@
 using namespace std;
 
 #define endl '\n'
-typedef pair<int, int> ii
+typedef pair<int, int> ii;
 
 int main()
 {
