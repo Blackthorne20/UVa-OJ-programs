@@ -151,10 +151,10 @@
     <Text Include="out.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="350.cpp" />
     <ClCompile Include="BigInteger.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="465.cpp" />
     <ClCompile Include="Sieve.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
