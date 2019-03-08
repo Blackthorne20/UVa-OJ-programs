@@ -32,5 +32,8 @@
     <ClCompile Include="Sieve.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="624.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
