@@ -151,7 +151,7 @@
     <Text Include="out.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="562.cpp" />
+    <ClCompile Include="10034.cpp" />
     <ClCompile Include="BigInteger.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
